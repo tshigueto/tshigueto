@@ -1,8 +1,6 @@
 ### Hi, I'm Thiago Shigueto!
 
-- 🌱 Estou no 4º semestre de Análise e Desenvolvimento de Sistemas no SENAC...
-- 🔭 Atualmente não trabalho na área de TI, infelizmente...
-
+☕️ Movido a café e paciência com o compilador Java.
 
 <div>   
   <a href="https://instagram.com/tshigueto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
